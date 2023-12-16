@@ -1,12 +1,4 @@
 
-package main
-
-import (
-	"fmt"
-	"io/ioutil"
-	"net/http"
-)
-
 func main() {
 	url := "https://api.ksv.com/data"
 
