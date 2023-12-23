@@ -31,8 +31,6 @@ func main() {
 
 
 
-
-
 func dec() {
 	url := "https://api.example.com/data"
 
