@@ -1,7 +1,4 @@
 
-
-
-
 package main
 
 import (
