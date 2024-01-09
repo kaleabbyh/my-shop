@@ -65,19 +65,3 @@ func Encode() {
 
 	fmt.Println(string(body))
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
