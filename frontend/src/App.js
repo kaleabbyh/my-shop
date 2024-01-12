@@ -18,6 +18,9 @@ import ProductListScreen from './screens/ProductListScreen'
 import ProductEditScreen from './screens/ProductEditScreen'
 import OrderListScreen from './screens/OrderListScreen'
 
+// import ProductEditScreen from './screens/ProductEditScreen'
+// import OrderListScreen from './screens/OrderListScreen'
+
 
 function App() {
   return (
